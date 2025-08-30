@@ -1,0 +1,794 @@
+Country Name,Country Code,Series Name,Series Code,2000 [YR2000],2001 [YR2001],2002 [YR2002],2003 [YR2003],2004 [YR2004],2005 [YR2005],2006 [YR2006],2007 [YR2007],2008 [YR2008],2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023],2024 [YR2024]
+India,IND,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),EN.GHG.CO2.AG.MT.CE.AR5,16.8848,17.4263,16.0441,17.1071,17.9949,19.4124,21.1051,22.1268,23.2943,23.8766,25.2412,25.9393,25.8602,25.5587,25.6624,26.1607,25.3388,25.8574,26.91,29.1932,30.9691,29.2446,29.9048,30.5827,..
+India,IND,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),EN.GHG.CO2.BU.MT.CE.AR5,111.2212,110.5898,115.6711,124.6502,127.2363,127.3947,128.1799,124.9524,155.8906,157.8079,161.5217,149.6887,162.8888,159.4733,167.8414,172.1585,178.0846,183.2117,190.0486,192.3432,188.6948,201.1516,208.8407,221.7591,..
+India,IND,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CO2.FE.MT.CE.AR5,49.6088,48.9975,53.6632,57.0971,69.295,67.9195,74.1894,62.8523,56.3827,51.1822,55.3593,63.1227,73.6685,74.3197,78.7008,80.8822,85.0327,92.0371,94.9074,101.2619,92.2749,91.5567,121.3264,129.1678,..
+India,IND,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CO2.IC.MT.CE.AR5,192.2747,193.9797,207.6702,198.4246,208.2556,232.619,260.3072,295.2585,308.1789,355.0909,397.4904,442.4592,431.0654,468.4188,499.8833,502.719,523.6354,555.0959,564.6781,548.9013,501.0288,559.3889,568.7255,619.0166,..
+India,IND,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),EN.GHG.CO2.IP.MT.CE.AR5,71.4294,73.9448,79.6884,83.3818,87.6621,92.3812,97.2354,107.234,111.9993,117.8971,125.6912,140.8369,161.6084,166.6301,157.5077,165.0651,177.8354,187.5677,193.7266,198.1046,179.8434,206.3263,222.7196,237.9015,..
+India,IND,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CO2.PI.MT.CE.AR5,459.1438,471.9481,479.4057,501.5984,548.3214,561.4035,596.7301,658.4644,684.6556,758.4981,785.4702,818.9953,946.1559,962.5515,1077.4982,1055.398,1044.0481,1098.7815,1197.158,1163.7748,1057.4732,1165.7218,1265.6946,1376.9935,..
+India,IND,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CO2.TR.MT.CE.AR5,95.0898,94.9184,97.7374,99.526,108.0512,115.4037,120.6481,142.9764,163.2097,178.7119,192.9189,209.2899,221.5177,226.2589,235.7472,257.7479,269.3869,291.2317,305.6906,308.4561,268.6636,295.0934,323.609,339.7606,..
+India,IND,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),EN.GHG.CO2.WA.MT.CE.AR5,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+India,IND,Carbon intensity of GDP (kg CO2e per constant 2015 US$ of GDP),EN.GHG.CO2.RT.GDP.KD,1.24373481135769,1.20574664495018,1.20527205668329,1.15139534027509,1.15072693042704,1.11167579932655,1.09797612403706,1.11054522044326,1.14567453231195,1.16067967653566,1.13529217272499,1.14472458371351,1.18665335276565,1.1487533949212,1.15145348604328,1.07441714497399,1.01145884868727,1.00072657065269,0.993875811218095,0.945273722273829,0.915194515135066,0.91693557718207,0.916405259205707,0.904909782581756,..
+India,IND,Carbon intensity of GDP (kg CO2e per 2021 PPP $ of GDP),EN.GHG.CO2.RT.GDP.PP.KD,0.303642002312484,0.294367675657941,0.294251810981391,0.281098497349887,0.280935313604627,0.271401477668189,0.268056876553913,0.2711254612435,0.279701834999593,0.283365149715454,0.277167114233619,0.279469917156745,0.289706291722472,0.280453500064349,0.2811126928981,0.262305252083951,0.246934786473349,0.244314637578235,0.242642111977853,0.230776531414504,0.223433076362686,0.223858134470954,0.223728664096133,0.220922189992684,..
+India,IND,F-gases emissions from Industrial Processes (Mt CO2e),EN.GHG.FGAS.IP.MT.CE.AR5,10.2204,10.3892,11.1439,13.1173,13.6392,10.4935,11.4451,13.1262,16.4139,19.8334,23.338,26.8454,30.2865,33.7439,37.3192,40.9691,44.4969,48.1149,51.4078,54.8986,58.2913,61.7777,65.2838,68.7456,..
+India,IND,Methane (CH4) emissions from Agriculture (Mt CO2e),EN.GHG.CH4.AG.MT.CE.AR5,498.5149,500.9801,491.5671,497.032,502.4102,514.9554,522.7143,532.9687,536.9555,528.3394,532.4707,537.156,534.3906,538.1727,538.6129,541.0158,546.1368,548.7467,553.018,554.6138,564.4764,564.886,567.0297,567.5592,..
+India,IND,Methane (CH4) emissions from Building (Energy) (Mt CO2e),EN.GHG.CH4.BU.MT.CE.AR5,34.8532,34.3998,34.8577,35.2404,35.717,35.9848,35.9573,35.8795,38.5744,38.593,38.8351,37.8305,38.824,38.3447,38.6288,38.4775,38.5246,38.5616,38.5991,38.5309,38.4033,38.6344,38.6783,38.9994,..
+India,IND,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.CH4.FE.MT.CE.AR5,61.7247,62.9289,63.447,67.09,69.444,71.5411,73.6638,77.7905,83.0117,89.697,90.2805,93.2755,96.1887,64.9778,69.0904,71.9117,73.0954,73.1108,78.8625,75.93,71.9847,81.3226,92.4429,100.4239,..
+India,IND,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.CH4.IC.MT.CE.AR5,1.223,1.453,1.4742,1.48,1.5741,1.6617,1.7673,1.9108,2.0126,2.172,2.4051,2.5198,2.5325,2.7673,2.9128,3.0139,3.1041,3.3135,3.519,3.5131,3.5947,3.8605,4.0664,4.1663,..
+India,IND,Methane (CH4) emissions from Industrial Processes (Mt CO2e),EN.GHG.CH4.IP.MT.CE.AR5,0.1126,0.1061,0.1148,0.1258,0.1282,0.1361,0.1396,0.1454,0.1697,0.1908,0.211,0.2343,0.241,0.257,0.2766,0.2841,0.3124,0.3433,0.355,0.3496,0.3282,0.369,0.3892,0.4246,..
+India,IND,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.CH4.PI.MT.CE.AR5,0.1613,0.1683,0.1822,0.2035,0.2431,0.2587,0.3053,0.3522,0.344,0.4237,0.484,0.5116,0.5389,0.552,0.6186,0.6049,0.7543,0.9172,0.9104,0.9132,0.941,0.9765,1.0625,1.0996,..
+India,IND,Methane (CH4) emissions from Transport (Energy) (Mt CO2e),EN.GHG.CH4.TR.MT.CE.AR5,1.1904,1.0487,1.2982,1.2092,1.2419,1.3677,1.2631,1.1999,1.2654,1.4218,1.544,1.5473,1.5091,1.4786,1.5026,1.539,1.7241,1.7714,1.778,1.8559,1.6688,1.9601,2.1225,2.2405,..
+India,IND,Methane (CH4) emissions from Waste (Mt CO2e),EN.GHG.CH4.WA.MT.CE.AR5,88.0276,89.7594,91.7263,93.7873,96.1984,98.1535,100.4097,102.6122,103.7568,104.9623,107.3931,109.5892,111.5313,113.6061,116.0196,118.8314,120.3497,121.9658,125.2143,126.7681,127.9311,130.2326,130.9667,133.6213,..
+India,IND,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),EN.GHG.N2O.AG.MT.CE.AR5,124.4029,127.1358,122.1714,126.7622,131.1849,138.1423,145.1862,151.251,155.0256,157.1565,162.9922,167.5794,165.3925,165.155,166.2778,169.1243,166.8445,169.088,173.7242,182.2688,190.5258,185.5118,188.8937,192.3537,..
+India,IND,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),EN.GHG.N2O.BU.MT.CE.AR5,6.764,6.637,6.7093,6.7488,6.8705,6.7519,7.0618,6.8855,6.8503,7.0954,7.3135,7.5391,7.7849,7.815,7.8411,7.8103,7.8778,8.0779,8.1689,8.1189,7.7758,7.9476,8.199,8.3893,..
+India,IND,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),EN.GHG.N2O.FE.MT.CE.AR5,0.1782,0.1791,0.1785,0.1824,0.1843,0.1827,0.178,0.1839,0.185,0.1869,0.1935,0.2029,0.2122,0.2064,0.2056,0.2028,0.2,0.1957,0.193,0.1935,0.19,0.1873,0.1863,0.1875,..
+India,IND,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),EN.GHG.N2O.IC.MT.CE.AR5,1.808,1.9394,1.9399,1.9099,2.0301,2.1584,2.3466,2.5196,2.6155,2.7879,3.0921,3.2358,3.2384,3.5731,3.7757,3.9236,4.029,4.3202,4.6052,4.5291,4.6138,4.9726,5.2334,5.3716,..
+India,IND,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),EN.GHG.N2O.IP.MT.CE.AR5,9.8615,9.6525,9.4209,9.7503,10.3509,10.411,10.7903,11.5917,12.0198,13.1276,12.2598,12.3042,13.1643,13.1742,13.7991,13.8195,13.9036,14.6741,15.3686,14.8879,13.9322,15.495,15.9703,16.6866,..
+India,IND,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),EN.GHG.N2O.PI.MT.CE.AR5,3.6202,3.6934,3.8115,4.0028,4.3908,4.8243,5.8275,7.3162,7.7839,9.1165,10.3985,12.6002,16.0094,17.1094,18.4689,18.2078,17.9956,17.7896,18.8824,18.8006,16.9682,19.1325,21.2369,23.0012,..
+India,IND,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),EN.GHG.N2O.TR.MT.CE.AR5,2.6904,2.5157,2.5522,2.4719,2.7235,2.8862,2.9797,3.688,4.2738,4.6507,5.1838,5.4739,5.6114,5.6142,5.8604,6.1602,6.1143,6.5109,6.8317,6.8163,5.5548,6.6001,6.894,7.2736,..
+India,IND,Nitrous oxide (N2O) emissions from Waste (Mt CO2e),EN.GHG.N2O.WA.MT.CE.AR5,10.3241,10.5115,10.5888,10.643,10.7676,11.0041,11.3781,11.8949,12.1993,12.4632,12.7049,13.028,13.4453,13.7483,14.0743,14.4029,14.869,15.2735,15.6817,15.8641,16.044,16.2212,16.4921,16.7675,..
+India,IND,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,100,..,..,..,..,100,..,..,..,..,100,100,100,100,100,100,100,100,..,..,..,..,..,..,..
+India,IND,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,61.511449777005,61.9068347721157,62.3725221530569,62.766353963477,62.9461722470244,62.7698190473475,61.1951099242157,58.0211349861865,54.3676481000901,51.3544031327568,50.1011539510167,61.708624213512,74.0031607462287,76.2501768290597,79.0373957134889,73.810991410386,75.7890035327013,67.3122713926644,68.1209525065052,59.8919808842351,48.3948115195574,..,..,..,..
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Last Updated: 07/01/2025,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Code,License Type,Indicator Name,Long definition,Source,Topic,Dataset,Unit of measure,Periodicity,Aggregation method,Statistical concept and methodology,Development relevance,Limitations and exceptions,License URL
+EN.GHG.CO2.AG.MT.CE.AR5,CC BY-4.0,Carbon dioxide (CO2) emissions from Agriculture (Mt CO2e),"A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from the agricultural sector. This includes emissions from livestock (IPCC 2006 codes 3.A.1 (enteric fermentation, 3.a.2 (manure management) and crops (IPCC 2006 codes 3.C.1 Emissions from biomass burning, 3.C.2 Liming, 3.C.3 Urea application, 3.C.4 Direct N2O Emissions from managed soils, 3.C.5 Indirect N2O Emissions from managed soils, 3.C.6 Indirect N2O Emissions from manure management, 3.C.7 Rice cultivations). The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CO2.BU.MT.CE.AR5,CC BY-4.0,Carbon dioxide (CO2) emissions from Building (Energy) (Mt CO2e),"A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from the building sector (subsector of the energy sector) including IPCC 2006 codes 1.A.4 Residential and other sectors, 1.A.5 Non-Specified. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CO2.FE.MT.CE.AR5,CC BY-4.0,Carbon dioxide (CO2) emissions from Fugitive Emissions (Energy) (Mt CO2e),"A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from fugitive emissions (subsector of the energy sector) including IPCC 2006 codes 1.A.1.bc Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries, 1.B.1 Solid Fuels, 1.B.2 Oil and Natural Gas, 5.B. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CO2.IC.MT.CE.AR5,CC BY-4.0,Carbon dioxide (CO2) emissions from Industrial Combustion (Energy) (Mt CO2e),"A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from industrial combustion (subsector of the energy sector) including IPCC 2006 code 1.A.2 Manufacturing Industries and Construction. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CO2.IP.MT.CE.AR5,CC BY-4.0,Carbon dioxide (CO2) emissions from Industrial Processes (Mt CO2e),"A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from industrial processes including IPCC 2006 codes 2.A.1 Cement production, 2.A.2 Lime production, 2.A.3 Glass Production, 2.A.4 Other Process Uses of Carbonates, 2.B Chemical Industry, 2.C Metal Industry, 2.D Non-Energy Products from Fuels and Solvent Use, 2.E Electronics Industry, 2.F Product Uses as Substitutes for Ozone Depleting Substances, 2.G Other Product Manufacture and Use and 5.A Indirect N2O emissions from the atmospheric deposition of nitrogen in NOx and NH3). The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CO2.PI.MT.CE.AR5,CC BY-4.0,Carbon dioxide (CO2) emissions from Power Industry (Energy) (Mt CO2e),"A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from electricity and heat generation (subsector of the energy sector) including IPCC 2006 code 1.A.1.a. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CO2.TR.MT.CE.AR5,CC BY-4.0,Carbon dioxide (CO2) emissions from Transport (Energy) (Mt CO2e),"A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from the transportation sector (subsector of the energy sector) including IPCC 2006 codes 1.A.3.a Civil Aviation, 1.A.3.b_noRES Road Transportation no resuspension, 1.A.3.c Railways, 1.A.3.d Water-borne Navigation, 1.A.3.e Other Transportation. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CO2.WA.MT.CE.AR5,CC BY-4.0,Carbon dioxide (CO2) emissions from Waste (Mt CO2e),"A measure of annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from the waste sector. This includes emissions from solid waste (IPCC 2006 codes 4.A Solid Waste Disposal, 4.B Biological Treatment of Solid Waste, 4.C Incineration and Open Burning of Waste) and wastewater treatment (IPCC 2006 code 4.D Wastewater Treatment and Discharge). The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CO2.RT.GDP.KD,CC BY-4.0,Carbon intensity of GDP (kg CO2e per constant 2021 US$ of GDP),"Annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from the agriculture, energy, waste, and industrial sectors, excluding LULUCF divided by the GDP in constant 2021 US$.","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,kg CO2e per 2021 constant US$ of GDP,Annual,Weighted average using GDP as weights,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CO2.RT.GDP.PP.KD,CC BY-4.0,Carbon intensity of GDP (kg CO2e per 2021 PPP $),"Annual emissions of carbon dioxide (CO2), one of the six Kyoto greenhouse gases (GHG), from the agriculture, energy, waste, and industrial sectors, excluding LULUCF divided by the GDP in 2021 PPP $.","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,kg CO2e per 2021 PPP $,Annual,Weighted average using GDP as weights,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.FGAS.IP.MT.CE.AR5,CC BY-4.0,Fluorinated greenhouse gases (F-gases) emissions from Industrial Processes (Mt CO2e),"A measure of annual emissions of fluorinated gases (hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), and sulphurhexafluoride (SF6)), from industrial processes including IPCC 2006 codes 2.B Chemical Industry, 2.C Metal Industry, 2.E Electronics Industry, 2.F Product Uses as Substitutes for Ozone Depleting Substances, 2.G Other Product Manufacture and Use The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CH4.AG.MT.CE.AR5,CC BY-4.0,Methane (CH4) emissions from Agriculture (Mt CO2e),"A measure of annual emissions of methane (CH4), one of the six Kyoto greenhouse gases (GHG), from the agricultural sector. This includes emissions from livestock (IPCC 2006 codes 3.A.1 (enteric fermentation, 3.a.2 (manure management) and crops (IPCC 2006 codes 3.C.1 Emissions from biomass burning, 3.C.2 Liming, 3.C.3 Urea application, 3.C.4 Direct N2O Emissions from managed soils, 3.C.5 Indirect N2O Emissions from managed soils, 3.C.6 Indirect N2O Emissions from manure management, 3.C.7 Rice cultivations). The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CH4.BU.MT.CE.AR5,CC BY-4.0,Methane (CH4) emissions from Building (Energy) (Mt CO2e),"A measure of annual emissions of methane (CH4), one of the six Kyoto greenhouse gases (GHG), from the building sector (subsector of the energy sector) including IPCC 2006 codes 1.A.4 Residential and other sectors, 1.A.5 Non-Specified. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CH4.FE.MT.CE.AR5,CC BY-4.0,Methane (CH4) emissions from Fugitive Emissions (Energy) (Mt CO2e),"A measure of annual emissions of methane (CH4), one of the six Kyoto greenhouse gases (GHG), from fugitive emissions (subsector of the energy sector) including IPCC 2006 codes 1.A.1.bc Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries, 1.B.1 Solid Fuels, 1.B.2 Oil and Natural Gas, 5.B. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CH4.IC.MT.CE.AR5,CC BY-4.0,Methane (CH4) emissions from Industrial Combustion (Energy) (Mt CO2e),"A measure of annual emissions of methane (CH4), one of the six Kyoto greenhouse gases (GHG), from industrial combustion (subsector of the energy sector) including IPCC 2006 code 1.A.2 Manufacturing Industries and Construction. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CH4.IP.MT.CE.AR5,CC BY-4.0,Methane (CH4) emissions from Industrial Processes (Mt CO2e),"A measure of annual emissions of methane (CH4), one of the six Kyoto greenhouse gases (GHG), from industrial processes including IPCC 2006 codes 2.A.1 Cement production, 2.A.2 Lime production, 2.A.3 Glass Production, 2.A.4 Other Process Uses of Carbonates, 2.B Chemical Industry, 2.C Metal Industry, 2.D Non-Energy Products from Fuels and Solvent Use, 2.E Electronics Industry, 2.F Product Uses as Substitutes for Ozone Depleting Substances, 2.G Other Product Manufacture and Use and 5.A Indirect N2O emissions from the atmospheric deposition of nitrogen in NOx and NH3). The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CH4.PI.MT.CE.AR5,CC BY-4.0,Methane (CH4) emissions from Power Industry (Energy) (Mt CO2e),"A measure of annual emissions of methane (CH4), one of the six Kyoto greenhouse gases (GHG), from electricity and heat generation (subsector of the energy sector) including IPCC 2006 code 1.A.1.a. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CH4.TR.MT.CE.AR5,CC BY-4.0,Methane (CH4) emissions from Transport (Energy) (Mt CO2e),"A measure of annual emissions of methane (CH4), one of the six Kyoto greenhouse gases (GHG), from the transportation sector (subsector of the energy sector) including IPCC 2006 codes 1.A.3.a Civil Aviation, 1.A.3.b_noRES Road Transportation no resuspension, 1.A.3.c Railways, 1.A.3.d Water-borne Navigation, 1.A.3.e Other Transportation. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.CH4.WA.MT.CE.AR5,CC BY-4.0,Methane (CH4) emissions from Waste (Mt CO2e),"A measure of annual emissions of methane (CH4), one of the six Kyoto greenhouse gases (GHG), from the waste sector. This includes emissions from solid waste (IPCC 2006 codes 4.A Solid Waste Disposal, 4.B Biological Treatment of Solid Waste, 4.C Incineration and Open Burning of Waste) and wastewater treatment (IPCC 2006 code 4.D Wastewater Treatment and Discharge). The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.N2O.AG.MT.CE.AR5,CC BY-4.0,Nitrous oxide (N2O) emissions from Agriculture (Mt CO2e),"A measure of annual emissions of nitrous oxide (N2O), one of the six Kyoto greenhouse gases (GHG), from the agricultural sector. This includes emissions from livestock (IPCC 2006 codes 3.A.1 (enteric fermentation, 3.a.2 (manure management) and crops (IPCC 2006 codes 3.C.1 Emissions from biomass burning, 3.C.2 Liming, 3.C.3 Urea application, 3.C.4 Direct N2O Emissions from managed soils, 3.C.5 Indirect N2O Emissions from managed soils, 3.C.6 Indirect N2O Emissions from manure management, 3.C.7 Rice cultivations). The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.N2O.BU.MT.CE.AR5,CC BY-4.0,Nitrous oxide (N2O) emissions from Building (Energy) (Mt CO2e),"A measure of annual emissions of nitrous oxide (N2O), one of the six Kyoto greenhouse gases (GHG), from the building sector (subsector of the energy sector) including IPCC 2006 codes 1.A.4 Residential and other sectors, 1.A.5 Non-Specified. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.N2O.FE.MT.CE.AR5,CC BY-4.0,Nitrous oxide (N2O) emissions from Fugitive Emissions (Energy) (Mt CO2e),"A measure of annual emissions of nitrous oxide (N2O), one of the six Kyoto greenhouse gases (GHG), from fugitive emissions (subsector of the energy sector) including IPCC 2006 codes 1.A.1.bc Petroleum Refining - Manufacture of Solid Fuels and Other Energy Industries, 1.B.1 Solid Fuels, 1.B.2 Oil and Natural Gas, 5.B. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.N2O.IC.MT.CE.AR5,CC BY-4.0,Nitrous oxide (N2O) emissions from Industrial Combustion (Energy) (Mt CO2e),"A measure of annual emissions of nitrous oxide (N2O), one of the six Kyoto greenhouse gases (GHG), from industrial combustion (subsector of the energy sector) including IPCC 2006 code 1.A.2 Manufacturing Industries and Construction. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.N2O.IP.MT.CE.AR5,CC BY-4.0,Nitrous oxide (N2O) emissions from Industrial Processes (Mt CO2e),"A measure of annual emissions of nitrous oxide (N2O), one of the six Kyoto greenhouse gases (GHG), from industrial processes including IPCC 2006 codes 2.A.1 Cement production, 2.A.2 Lime production, 2.A.3 Glass Production, 2.A.4 Other Process Uses of Carbonates, 2.B Chemical Industry, 2.C Metal Industry, 2.D Non-Energy Products from Fuels and Solvent Use, 2.E Electronics Industry, 2.F Product Uses as Substitutes for Ozone Depleting Substances, 2.G Other Product Manufacture and Use and 5.A Indirect N2O emissions from the atmospheric deposition of nitrogen in NOx and NH3). The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.N2O.PI.MT.CE.AR5,CC BY-4.0,Nitrous oxide (N2O) emissions from Power Industry (Energy) (Mt CO2e),"A measure of annual emissions of nitrous oxide (N2O), one of the six Kyoto greenhouse gases (GHG), from electricity and heat generation (subsector of the energy sector) including IPCC 2006 code 1.A.1.a. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.N2O.TR.MT.CE.AR5,CC BY-4.0,Nitrous oxide (N2O) emissions from Transport (Energy) (Mt CO2e),"A measure of annual emissions of nitrous oxide (N2O), one of the six Kyoto greenhouse gases (GHG), from the transportation sector (subsector of the energy sector) including IPCC 2006 codes 1.A.3.a Civil Aviation, 1.A.3.b_noRES Road Transportation no resuspension, 1.A.3.c Railways, 1.A.3.d Water-borne Navigation, 1.A.3.e Other Transportation. The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.GHG.N2O.WA.MT.CE.AR5,CC BY-4.0,Nitrous oxide (N2O) emissions from Waste (Mt CO2e),"A measure of annual emissions of nitrous oxide (N2O), one of the six Kyoto greenhouse gases (GHG), from the waste sector. This includes emissions from solid waste (IPCC 2006 codes 4.A Solid Waste Disposal, 4.B Biological Treatment of Solid Waste, 4.C Incineration and Open Burning of Waste) and wastewater treatment (IPCC 2006 code 4.D Wastewater Treatment and Discharge). The measure is standardized to carbon dioxide equivalent values using the Global Warming Potential (GWP) factors of IPCC's 5th Assessment Report (AR5).","EDGAR (Emissions Database for Global Atmospheric Research) Community GHG Database, Joint Research Centre (JRC) - European Commission, uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024;
+International Energy Agency (IEA), uri: https://edgar.jrc.ec.europa.eu/dataset_ghg2032, publisher: JRC European Commission, date published: 2024",Environment: Emissions,WDI,Mt CO2eq,Annual,Sum,"Methodology: EDGAR compiles data from multiple authoritative sources, including: International Energy Agency (IEA) – Energy consumption data, United Nations Framework Convention on Climate Change (UNFCCC) – National GHG inventories, Food and Agriculture Organization (FAO) – Agricultural emissions, World Bank & National Statistics Offices – Socioeconomic and industrial data, Scientific Literature & IPCC Guidelines – Emission factors and methodologies. 
+
+EDGAR follows the IPCC (Intergovernmental Panel on Climate Change) Guidelines for National Greenhouse Gas Inventories to estimate emissions. The core equation is:
+
+?? =??×????
+
+Where:
+
+E = Total emissions (kg, tons, or CO2-equivalent)
+A = Activity data (e.g., fuel consumption, production levels)
+EF = Emission factor (kg of pollutant per unit of activity)
+
+Depending on the pollutant, different tiers of complexity are used:
+
+Tier 1 – Default IPCC emission factors (simple estimation)
+Tier 2 – Country/region-specific emission factors
+Tier 3 – Detailed process-based models (highest accuracy)","Anthropogenic (human-caused) emissions of global greenhouse gases, including carbon dioxide (CO2), methane (CH4), nitrous oxide (NO2) and F-gases, lead to an increase of the concentration of greenhouse gases in the atmosphere, which in turn causes atmospheric warming by trapping heat in the atmosphere (greenhouse gas effect). Atmospheric warming leads to climatic changes causing more frequent and extreme weather events and higher temperatures globally, leading to large impacts across the globe and particularly in developing countries that often have a limited means to adapt and build resilience. The international scientific community has warned that emissions need to decline to net zero by the middle of the 21st century to limit global warming to well below a 2deg C increase and help avoid the most consequential climate change impacts. 
+
+
+
+
+
+
+
+
+
+Climate change is having a disproportionate impact on developing countries and if unabated will not only reverse past development progress and hinder poverty reduction but will also make future development more costly. Country level assessments of the potential climate change impacts on specific developing countries, performed as part of the World Bank’s Country Climate and Development Reports (CCDRs), show that climate change will have a significant impact on developing countries’ economies, ranging from about 0.5% of GDP for higher income developing countries to over 13% for the lowest income developing countries. The costs of partial adaptation to these changes will be significant as well -- ranging between 1 and 10% of developing countries’ GDP.","Global GHG emissions are currently not directly measurable, but approaches for their estimation exist, and numerous sources exist to supply data for this indicator. Reputable scientific organizations produce these data for use for research, policy analysis, climate negotiations, and broader public communications. The estimated accuracy from fossil fuel combustion and industrial processes are quite high, as quantities of fossil fuels and other emissive materials (such as cement and steel) produced are well known. For these sectors, emissions estimates are roughly accurate to within 10% when aggregated to the global level and between 4% and 35% at the country level (Crippa et al., 2023). For non- combustion and non- industrial process emissions, the accuracy is lower. Agricultural emissions, for example, depend upon many factors including the type of crops grown and livestock raised, specific agricultural practices, and other climate and non-climate factors. For these emissions, the accuracy is lower—around 30% for CH4 and fluorinated gases (HFCs, PFCs, and SF6).",https://creativecommons.org/licenses/by/4.0/
+EN.ATM.PM25.MC.ZS,CC BY-4.0,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)","Percent of population exposed to ambient concentrations of PM2.5 that exceed the WHO guideline value is defined as the portion of a country’s population living in places where mean annual concentrations of PM2.5 are greater than 10 micrograms per cubic meter, the guideline value recommended by the World Health Organization as the lower end of the range of concentrations over which adverse health effects due to PM2.5 exposure have been observed.","Global Burden of Disease Study 2017 (GBD 2017), Institute for Health Metrics and Evaluation (IHME), uri: https://ghdx.healthdata.org/gbd-2017, publisher: Institute for Health Metrics and Evaluation (IHME), date published: 202112",Environment: Emissions,WDI,% (share) of population,Annual,Weighted average,"Methodology: A. van Donkelaar, R.V. Martin, M. Brauer, N.C. Hsu, R.A. Kahn, R.C. Levy, A. Lyapustin, A.M. Sayer, D.M. Winker, "Global Estimates of Fine Particulate Matter using a Combined Geophysical-Statistical Method with Information from Satellites, Models, and Monitors," Environ. Sci. Technol 50, no. 7 (2016): 3762–3772; GBD 2017 Risk Factors Collaborators, "Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 194 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017," Lancet 392 (2018): 1923-1994; Shaddick G, Thomas M, Amini H, Broday DM, Cohen A, Frostad J, Green A, Gumy S, Liu Y, Martin RV, Prüss-Üstün A, Simpson D, van Donkelaar A, Brauer M. Data integration for the assessment of population exposure to ambient air pollution for global burden of disease assessment. Environ Sci Technol. 2018 Jun 29. Data provided by Institute for Health Metrics and Evaluation, University of Washington, Seattle. Data on exposure to ambient air pollution are derived from estimates of annual concentrations of very fine particulates produced by the Global Burden of Disease study, an international scientific effort led by the Institute for Health Metrics and Evaluation at the University of Washington. Estimates of annual concentrations are generated by combining data from atmospheric chemistry transport models, satellite observations of aerosols in the atmosphere, and ground-level monitoring of particulates. Overlaying PM2.5 estimates with gridded population data, the percent of a nation's people that lives in areas where PM2.5 concentrations exceed recommended levels is calculated by summing the population for grid cells where PM2.5 concentrations are beyond a threshold value, in this case 10 micrograms per cubic meter, and then dividing by total population.","Air pollution places a major burden on world health. In many places, including cities but also in rural areas, exposure to air pollution is the main environmental threat to health, responsible for 6.5 million deaths per year, about one every 5 seconds. Around 40 percent of the world’s people rely on household burning of wood, charcoal, dung, crop waste, or coal to meet basic energy needs. Cooking and heating with solid fuels create harmful smoke and particles that fill homes and the surrounding environment. Household air pollution from cooking and heating with solid fuels is responsible for 2.9 million deaths a year. Long-term exposure to high levels of fine particles in the air contributes to a range of health effects, including respiratory diseases, lung cancer, and heart disease, resulting in 4.2 million deaths annually. Not only does exposure to air pollution affect the health of the world’s people, it also carries huge economic costs and represents a drag on development, particularly for low and middle income countries and vulnerable segments of the population such as children and the elderly.","Pollutant concentrations are sensitive to local conditions, and even monitoring sites in the same city may register different levels. Direct monitoring of PM2.5 is still rare in most parts of the world, and measurement protocols and standards are not the same for all countries. These data should be considered only a general indication of air quality, intended to inform cross-country comparisons of the health risks due to particulate matter pollution. The guideline set by the World Health Organization (WHO) for PM2.5 is that annual mean concentrations should not exceed 10 micrograms per cubic meter, representing the lower range over which adverse health effects have been observed. The WHO has also recommended guideline values for emissions of PM2.5 from burning fuels in households.",https://creativecommons.org/licenses/by/4.0/
+EN.ATM.PM25.MC.M3,CC BY-4.0,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)","Population-weighted exposure to ambient PM2.5 pollution is defined as the average level of exposure of a nation's population to concentrations of suspended particles measuring less than 2.5 microns in aerodynamic diameter, which are capable of penetrating deep into the respiratory tract and causing severe health damage. Exposure is calculated by weighting mean annual concentrations of PM2.5 by population in both urban and rural areas.","Global Burden of Disease Study 2021 (GBD 2021) Air Pollution Exposure Estimates 1990-2021, Institute for Health Metrics and Evaluation (IHME), uri: https://ghdx.healthdata.org/record/ihme-data/gbd-2021-air-pollution-exposure-estimates-1990-2021, note: Need to create account to retrieve data., publisher: Institute for Health Metrics and Evaluation (IHME), data accessed: 2024-09-26, date published: 2024-06-06",Environment: Emissions,WDI,microgram per cubic meter,Annual,Weighted average,"Methodology: A. van Donkelaar, R.V. Martin, M. Brauer, N.C. Hsu, R.A. Kahn, R.C. Levy, A. Lyapustin, A.M. Sayer, D.M. Winker, "Global Estimates of Fine Particulate Matter using a Combined Geophysical-Statistical Method with Information from Satellites, Models, and Monitors," Environ. Sci. Technol 50, no. 7 (2016): 3762–3772; GBD 2017 Risk Factors Collaborators, "Global, regional, and national comparative risk assessment of 84 behavioural, environmental and occupational, and metabolic risks or clusters of risks for 194 countries and territories, 1990–2017: a systematic analysis for the Global Burden of Disease Study 2017," Lancet 392 (2018): 1923-1994; Shaddick G, Thomas M, Amini H, Broday DM, Cohen A, Frostad J, Green A, Gumy S, Liu Y, Martin RV, Prüss-Üstün A, Simpson D, van Donkelaar A, Brauer M. Data integration for the assessment of population exposure to ambient air pollution for global burden of disease assessment. Environ Sci Technol. 2018 Jun 29. Data provided by Institute for Health Metrics and Evaluation, University of Washington, Seattle. Data on exposure to ambient air pollution are derived from estimates of annual concentrations of very fine particulates produced by the Global Burden of Disease study, an international scientific effort led by the Institute for Health Metrics and Evaluation at the University of Washington. Estimates of annual concentrations are generated by combining data from atmospheric chemistry transport models, satellite observations of aerosols in the atmosphere, and ground-level monitoring of particulates. Exposure to concentrations of PM2.5 in both urban and rural areas is weighted by population and is aggregated at the national level.","Air pollution places a major burden on world health. In many places, including cities but also in rural areas, exposure to air pollution is the main environmental threat to health, responsible for 6.5 million deaths per year, about one every 5 seconds. Around 40 percent of the world’s people rely on household burning of wood, charcoal, dung, crop waste, or coal to meet basic energy needs. Cooking and heating with solid fuels create harmful smoke and particles that fill homes and the surrounding environment. Household air pollution from cooking and heating with solid fuels is responsible for 2.9 million deaths a year. Long-term exposure to high levels of fine particles in the air contributes to a range of health effects, including respiratory diseases, lung cancer, and heart disease, resulting in 4.2 million deaths annually. Not only does exposure to air pollution affect the health of the world’s people, it also carries huge economic costs and represents a drag on development, particularly for low and middle income countries and vulnerable segments of the population such as children and the elderly.","Pollutant concentrations are sensitive to local conditions, and even monitoring sites in the same city may register different levels. Direct monitoring of PM2.5 is still rare in most parts of the world, and measurement protocols and standards are not the same for all countries. These data should be considered only a general indication of air quality, intended to inform cross-country comparisons of the health risks due to particulate matter pollution. The guideline set by the World Health Organization (WHO) for PM2.5 is that annual mean concentrations should not exceed 10 micrograms per cubic meter, representing the lower range over which adverse health effects have been observed. The WHO has also recommended guideline values for emissions of PM2.5 from burning fuels in households.",https://creativecommons.org/licenses/by/4.0/
